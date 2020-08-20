@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Alchemical Imbuer",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/alchemical-imbuer",
+    "icon": "thermalexpansion/alchemical-imbuer.png"
+  },
+  {
+    "name": "Arcane Ensorcellator",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/arcane-ensorcellator",
+    "icon": "thermalexpansion/arcane-ensorcellator.png"
+  },
+  {
+    "name": "Cache",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/cache",
+    "icon": "thermalexpansion/cache.png"
+  },
+  {
+    "name": "Centrifugal Separator",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/centrifugal-separator",
+    "icon": "thermalexpansion/centrifugal-separator.png"
+  },
+  {
+    "name": "Compactor",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/compactor",
+    "icon": "thermalexpansion/compactor.png"
+  },
+  {
+    "name": "Compression Dynamo",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/compression-dynamo",
+    "icon": "thermalexpansion/compression-dynamo.png"
+  },
+  {
+    "name": "Creature Encaptulator",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/creature-encaptulator",
+    "icon": "thermalexpansion/creature-encaptulator.png"
+  },
+  {
+    "name": "Decoctive Diffuser",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/decoctive-diffuser",
+    "icon": "thermalexpansion/decoctive-diffuser.png"
+  },
+  {
+    "name": "Device Frame",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/device-frame",
+    "icon": "thermalexpansion/device-frame.png"
+  },
+  {
+    "name": "Energetic Infuser",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/energetic-infuser",
+    "icon": "thermalexpansion/energetic-infuser.png"
+  },
+  {
+    "name": "Energy Cell",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/energy-cell",
+    "icon": "thermalexpansion/energy-cell.png"
+  },
+  {
+    "name": "Enervation Dynamo",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/enervation-dynamo",
+    "icon": "thermalexpansion/enervation-dynamo.png"
+  },
+  {
+    "name": "Factorizer",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/factorizer",
+    "icon": "thermalexpansion/factorizer.png"
+  },
+  {
+    "name": "Fluid Allocator",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/fluid-allocator",
+    "icon": "thermalexpansion/fluid-allocator.png"
+  },
+  {
+    "name": "Fluid Transposer",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/fluid-transposer",
+    "icon": "thermalexpansion/fluid-transposer.png"
+  },
+  {
+    "name": "Fractionating Still",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/fractionating-still",
+    "icon": "thermalexpansion/fractionating-still.png"
+  },
+  {
+    "name": "Glacial Precipitator",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/glacial-precipitator",
+    "icon": "thermalexpansion/glacial-precipitator.png"
+  },
+  {
+    "name": "Igneous Extruder",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/igneous-extruder",
+    "icon": "thermalexpansion/igneous-extruder.png"
+  },
+  {
+    "name": "Induction Smelter",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/induction-smelter",
+    "icon": "thermalexpansion/induction-smelter.png"
+  },
+  {
+    "name": "Insightful Condenser",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/insightful-condenser",
+    "icon": "thermalexpansion/insightful-condenser.png"
+  },
+  {
+    "name": "Item Allocator",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/item-allocator",
+    "icon": "thermalexpansion/item-allocator.png"
+  },
+  {
+    "name": "Lexical Transmuter",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/lexical-transmuter",
+    "icon": "thermalexpansion/lexical-transmuter.png"
+  },
+  {
+    "name": "Machine Frame",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/machine-frame",
+    "icon": "thermalexpansion/machine-frame.png"
+  },
+  {
+    "name": "Magma Crucible",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/magma-crucible",
+    "icon": "thermalexpansion/magma-crucible.png"
+  },
+  {
+    "name": "Magmatic Dynamo",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/magmatic-dynamo",
+    "icon": "thermalexpansion/magmatic-dynamo.png"
+  },
+  {
+    "name": "Nullifier",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/nullifier",
+    "icon": "thermalexpansion/nullifier.png"
+  },
+  {
+    "name": "Numismatic Dynamo",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/numismatic-dynamo",
+    "icon": "thermalexpansion/numismatic-dynamo.png"
+  },
+  {
+    "name": "Phytogenic Insolator",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/phytogenic-insolator",
+    "icon": "thermalexpansion/phytogenic-insolator.png"
+  },
+  {
+    "name": "Portable Tank",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/portable-tank",
+    "icon": "thermalexpansion/portable-tank.png"
+  },
+  {
+    "name": "Pulverizer",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/pulverizer",
+    "icon": "thermalexpansion/pulverizer.png"
+  },
+  {
+    "name": "Reactant Dynamo",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/reactant-dynamo",
+    "icon": "thermalexpansion/reactant-dynamo.png"
+  },
+  {
+    "name": "Redstone Furnace",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/redstone-furnace",
+    "icon": "thermalexpansion/redstone-furnace.png"
+  },
+  {
+    "name": "Reservoir",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/reservoir",
+    "icon": "thermalexpansion/reservoir.png"
+  },
+  {
+    "name": "Satchel",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/satchel",
+    "icon": "thermalexpansion/satchel.png"
+  },
+  {
+    "name": "Sawmill",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/sawmill",
+    "icon": "thermalexpansion/sawmill.png"
+  },
+  {
+    "name": "Sequential Fabricator",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/sequential-fabricator",
+    "icon": "thermalexpansion/sequential-fabricator.png"
+  },
+  {
+    "name": "Steam Dynamo",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/steam-dynamo",
+    "icon": "thermalexpansion/steam-dynamo.png"
+  },
+  {
+    "name": "Strongbox",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/strongbox",
+    "icon": "thermalexpansion/strongbox.png"
+  },
+  {
+    "name": "Thermal Mediator",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/thermal-mediator",
+    "icon": "thermalexpansion/thermal-mediator.png"
+  },
+  {
+    "name": "Vacuumulator",
+    "link": "https://teamcofh.com/docs/1.12/thermal-expansion/vacuumulator",
+    "icon": "thermalexpansion/vacuumulator.png"
+  }
+]
