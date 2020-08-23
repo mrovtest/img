@@ -1,21 +1,19 @@
 const fs = require('fs');
+var Jimp = require('jimp');
 
 const Json = [];
 
-const files = fs.readdirSync('./').filter(file => file.endsWith('.png'));
+const files = fs.readdirSync('./input').filter(file => file.endsWith('.png'));
 for (const file of files) {
   let name = file;
-  let entry = {};
+  // let entry = {};
 
   name = name.replace(' _Basic_', "");
   name = name.replace(' _Void_', "");
   name = name.replace('.png', '');
   name = name.replace(/ /g, "-");
 
-  entry.name = name.replace(/-/g, " ");
-  entry.link = "https://teamcofh.com/docs/1.12/thermal-expansion/" + name.toLowerCase();
-  entry.icon = "thermalexpansion/" + name.toLowerCase().replace(/ /g, "-") + ".png"
-  Json.push(entry);
+  Json.push(name.replace(/-/g, " "));
 
   name = name.toLowerCase();
 
@@ -23,7 +21,13 @@ for (const file of files) {
 
   console.log(name);
 
-  fs.rename(file, name, function (err) {
+  Jimp.read('./input/' + file, (err, Image) => {
+  if (err) throw err;
+  Image
+    .write('./output/' + name); // save
+});
+
+  fs.writeFile('./output/' + name, file, function (err) {
   if (err) throw err;
 });
 
