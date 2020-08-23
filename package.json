@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mrovtest/img/issues"
   },
-  "homepage": "https://github.com/mrovtest/img#readme"
+  "homepage": "https://github.com/mrovtest/img#readme",
+  "dependencies": {
+    "jimp": "^0.16.0"
+  }
 }
